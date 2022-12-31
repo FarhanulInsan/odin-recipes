@@ -1,1 +1,1 @@
-# odin-recipes
+This is my project from The Odin Project about a basic recipe website. It consist of a main index page which will have links to a few recipes.
